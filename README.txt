@@ -9,7 +9,11 @@ How to run:
  After cloning the repository, install nltk
  pip install nltk
 
- Change the name of suspicious text to check for different values
+ Change the name of suspicious text to check for different values.
+ CC8.txt is not plagiarised text
+ CC9.txt is heavily revised text
+ CC10.txt is lightly revised text
+ CC11.txt is a near copy.
  
  Run :
  python PlagiarismChecker.py
